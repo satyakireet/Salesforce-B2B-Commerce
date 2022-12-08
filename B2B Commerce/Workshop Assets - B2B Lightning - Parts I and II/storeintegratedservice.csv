@@ -1,0 +1,5 @@
+ServiceType,Integration,ServiceProviderType,StoreId
+Apex,Tax__B2BTaxSample2,Tax,0ZEB00000004EEkOAM
+Apex,Inventory__B2BCheckInventorySample2,Inventory,0ZEB00000004EEkOAM
+Apex,Shipment__B2BShippingSample2,Shipment,0ZEB00000004EEkOAM
+Apex,Price__B2BPricingSample2,Price,0ZEB00000004EEkOAM

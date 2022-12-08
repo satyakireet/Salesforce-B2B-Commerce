@@ -1,0 +1,5 @@
+ExternalServiceProviderId,DeveloperName,MasterLabel,ExternalServiceProviderType
+01pB0000003PUg5IAG,B2BTaxSample2,B2BTaxSample2,Tax
+01pB0000003PUgFIAW,B2BCheckInventorySample2,B2BCheckInventorySample2,Inventory
+01pB0000003PUgAIAW,B2BShippingSample2,B2BShippingSample2,Shipment
+01pB0000003PUgKIAW,B2BPricingSample2,B2BPricingSample2,Price

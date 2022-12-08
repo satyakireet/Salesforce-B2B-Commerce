@@ -1,0 +1,7 @@
+#Mapping values
+#Wed May 13 20:57:01 PDT 2020
+UNITPRICE=UnitPrice
+ISACTIVE=IsActive
+PRICEBOOK2ID=Pricebook2\:ExternalId__c
+EXTERNALID=ExternalId__c
+PRODEXTERNALID=Product2\:ExternalId__c

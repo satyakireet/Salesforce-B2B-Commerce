@@ -1,0 +1,12 @@
+ADDITIONAL_DETAILS__C=Additional_Details__c
+DEPTH__C=Depth__c
+DESCRIPTION=Description
+FAMILY=Family
+HEIGHT__C=Height__c
+ISACTIVE=IsActive
+NAME=Name
+PRODUCTCODE=ProductCode
+EXTERNALID=ExternalId__c
+STOCKKEEPINGUNIT=StockKeepingUnit
+WEIGHT__C=Weight__c
+WIDTH__C=Width__c

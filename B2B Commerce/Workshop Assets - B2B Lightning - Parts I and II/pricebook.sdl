@@ -1,0 +1,8 @@
+#Mapping values
+#Wed May 13 20:50:14 PDT 2020
+VALIDTO=ValidTo
+ISACTIVE=IsActive
+NAME=Name
+VALIDFROM=ValidFrom
+DESCRIPTION=Description
+EXTERNALID=ExternalId__c
